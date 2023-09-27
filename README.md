@@ -30,5 +30,6 @@
 2.棋子下落时有几率出现位置错误，无伤大雅。
 <br>
 3.某些时候会出现棋子看起来的属性和实际属性不同，不知道怎么造成的。
-# 在线链接
-https://mosaic93-cn.github.io/JsMatch3/
+# 
+[在线链接](https://mosaic93-cn.github.io/js-match3/)
+
